@@ -1,5 +1,6 @@
 # tiny-hanabi
 
+The code in this directory was used to produce all Tiny Hanabi experiments in the submission.
 The code runs in python3.
 Install the dependencies with "conda env create -f environment.yml".
 Activate the environment with "source activate tiny-hanabi".
